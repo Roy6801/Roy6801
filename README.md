@@ -1,8 +1,10 @@
-[<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/gmail-new.png"/>][mail]
+# **Roy6801**
 
-[<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/linkedin.png"/>][linkedin]
+#### [<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/linkedin.png"/>](https://www.linkedin.com/in/sonu-mondal-120011195/) Sonu Mondal
 
-[<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/instagram-new.png"/>][instagram]
+#### [<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/instagram-new.png"/>](https://www.instagram.com/sonu_6801/) sonu_6801
+
+#### [<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/gmail-new.png"/>](mailto:mondal6801@gmail.com) mondal6801@gmail.com
 
 <br/>
 
@@ -13,7 +15,3 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Roy6801&show_icons=true&theme=gruvbox)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy6801&theme=gruvbox)
-
-[mail]: mailto:mondal6801@gmail.com
-[linkedin]: https://www.linkedin.com/in/sonu-mondal-120011195/
-[instagram]: https://www.instagram.com/sonu_6801/
