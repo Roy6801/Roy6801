@@ -1,8 +1,8 @@
-[<img src="https://img.icons8.com/ios-filled/200/ffffff/gmail-new.png"/>][mail]
+[<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/gmail-new.png"/>][mail]
 
-[<img src="https://img.icons8.com/ios-filled/200/ffffff/linkedin.png"/>][linkedin]
+[<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/linkedin.png"/>][linkedin]
 
-[<img src="https://img.icons8.com/ios-filled/200/ffffff/instagram-new.png"/>][instagram]
+[<img width="50px" src="https://img.icons8.com/ios-filled/200/ffffff/instagram-new.png"/>][instagram]
 
 <br/>
 
