@@ -12,6 +12,6 @@
 
 <hr>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Roy6801&show_icons=true&theme=gruvbox)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Roy6801&show_icons=true&theme=radical)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy6801&theme=gruvbox)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy6801&theme=radical)
