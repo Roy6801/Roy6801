@@ -9,9 +9,3 @@
 <br/>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Roy6801&color=282828&label=Profile+visits)
-
-<hr>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Roy6801&show_icons=true&theme=radical)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy6801&theme=radical)
